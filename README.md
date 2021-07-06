@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfernandesdaconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="patrickfernandesdaconceicao" /> </p>
 
-- 🔭 Buscando desenvolver melhor minhas habilidades e aprender novas.
+- 🔭 Buscando desenvoler e aprender novas habilidades.
 
 - 🌱 Atualmente estou aprendendo **React, Node.js e Github.**
 
