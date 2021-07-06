@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **React, Node.js e Github.**
 
-- 📫 Meios de contato **patrickfernandesconceiao@gmail.com**
+- 📫 Meios de contato **patrickfernandesconceicao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
