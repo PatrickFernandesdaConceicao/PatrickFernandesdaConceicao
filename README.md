@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou desenvolvendo em **JAVA.**
 
-- 📫 Meios de contato **patrickfernandesconceicao@gmail.com**
+- 📫 Meios de contato **patrickfernandesconceicao@gmail.com** Linkedin: **https://www.linkedin.com/in/patrickfernandesconceicao/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
