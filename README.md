@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Seja muito Bem Vindo.</h1>
-<h3 align="center">Um Desenvolvedor front-end almejando conhecimento.</h3>
+<h3 align="center">Um Desenvolvedor almejando conhecimento.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickfernandesdaconceicao&label=Profile%20views&color=0e75b6&style=flat" alt="patrickfernandesdaconceicao" /> </p>
 
 - 🔭 Buscando desenvoler e aprender novas habilidades.
 
-- 🌱 Atualmente estou aprendendo **React, Node.js e Github.**
+- 🌱 Atualmente estou desenvolvendo em **JAVA.**
 
 - 📫 Meios de contato **patrickfernandesconceicao@gmail.com**
 
